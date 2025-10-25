@@ -1,6 +1,6 @@
 # Network-Services-TryHackMe-Writeup
 
-This is a writeup for the [TryHackMe.com](https://tryhackme.com) room, [Network Services,](https://tryhackme.com/room/networkservices) created by [Polomints](https://tryhackme.com/p/PoloMints).
+This is a writeup for the [TryHackMe.com](https://tryhackme.com) room, [Network Services,](https://tryhackme.com/room/networkservices) created by [Polomints](https://tryhackme.com/p/AthulCyS).
 
 This write-up will include the answers to most questions, but, as requested by TryHackMe, it will not include the Flags or passwords. 
 
