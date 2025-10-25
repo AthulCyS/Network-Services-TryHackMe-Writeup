@@ -584,7 +584,7 @@ For this particular Task, we will be using the username `mike` that we already k
 
 The TryHackMe page has a great breakdown of the syntax we will be using for this attack. I’d highly suggest reading through it.
 
-`hydra -t 4 -l dale -P /usr/share/wordlists/rockyou.txt -vV 10.10.10.6 ftp`
+`hydra -t 4 -l mike -P /usr/share/wordlists/rockyou.txt -vV ftp://10.10.131.163`
 
 Depending on what system you are using, your file path may vary. Also, if you are on the browser-based Kali machine, you will have an extra step. On the Kali machine, the wordlist is compressed into a GZ file. We need to unzip it. In your terminal, enter `gunzip -d /root/Desktop/wordlists/rockyou.txt.gz`. After a moment, you’ll have the uncompressed file you need.
 
