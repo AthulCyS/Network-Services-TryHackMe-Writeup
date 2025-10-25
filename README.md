@@ -1,12 +1,11 @@
 # Network-Services-TryHackMe-Writeup
 
-This is a writeup for the [TryHackMe.com](https://tryhackme.com) room, [Network Services,](https://tryhackme.com/room/networkservices) created by [Polomints](https://tryhackme.com/p/AthulCyS).
+This is a writeup for the [TryHackMe.com](https://tryhackme.com) room, [Network Services,](https://tryhackme.com/room/networkservices) created by [AthulCyS](https://tryhackme.com/p/AthulCyS).
 
 This write-up will include the answers to most questions, but, as requested by TryHackMe, it will not include the Flags or passwords. 
 
 This room can be found in the Cyber Defense learning path at the time of writing and [here](https://tryhackme.com/room/networkservices).
 
-You can find my video walkthrough of this [HERE](https://www.youtube.com/playlist?list=PLiJ1Vot-uE9aIKQ21LDtM2iT1f7QctG5a).
 
 The tasks in this room follow a repeated pattern, Understanding, Enumerating, and Exploiting. The Understanding tasks teach you about the service you are going to be exploiting. The Enumerating tasks teach you how to collect data about the service. And then, the Exploiting tasks have you execute the exploit for each service. 
 
